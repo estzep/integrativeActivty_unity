@@ -1,0 +1,64 @@
+unity explanation 
+team 7
+Alfredo
+Sam
+Diego
+Ivan
+At least 4 texture examples. 
+
+We have more than 4 but we made 2 of those by ourselves which are, the road, and the grass textures, then other examples are the sidewalk, the roundabout floor and the roundabout fountain, all of those contain textures with a normal map. 
+
+At least 4 materials examples.
+
+We also have more than 4, but some examples are, the Parking spots are a material done by us, also all the arrows and cross walk have a custom material which is translucent so it looks more real. Then the yellow of the sidewalk is also a simple material which is only yellow and also a bit transparent. And finally other material could be the ones in every building, the garages for example.
+
+ At least 4 3D-models examples.
+
+We have our cars which are 4 3d models, but we also imported, houses, buildings, trees, a fountain and the semaphores. 
+
+At least 1 semaphore example. 
+
+We imported the asset package of semaphores and did 2 of them by ourselves with the prefabs we imported, both of the semaphores are for each side of the road. 
+
+At least 1 road example (asphalt) with signaling (pass and continuous lines).
+
+We made the roads with different objects, first we made a plane with the asphalt material with textures, the made the arrows and crosswalk with a probuilder tool, then the dividing lane was also done with a probuilder plane. 
+
+ At least 1 example of pedestrian crossing, with proper signs. 
+
+The pedestrian crossing is in every semaphore and we added a walk sign in the bottom semaphore that goes down.
+
+At least 1 example of sideways. 
+
+The side road is on every road that goes to the roundabout. It is divided by a plane made with probuilder. 
+
+At least 1 example of buildings.
+
+All buildings were imported from unity asset store. And there are buildings in every part of the city.
+
+
+ At least 2 point light sources.
+
+We have more than two but the most relevant are the one on the roundabout and the one in the ferris wheel as they show how the point light works. 
+
+The model of the crossing (roundabout) for cars. This must be as close as possible to the final solution. 
+
+The roundabout is in the middle of the city, it was made with a floor with an asphalt material and with an imported fountain. 
+
+Credits for the assets:
+
+Buildings:
+https://assetstore.unity.com/packages/3d/props/exterior/low-poly-houses-free-pack-243926
+https://assetstore.unity.com/packages/3d/environments/simple-generic-buildings-cartoon-buildings-266743
+https://assetstore.unity.com/packages/3d/environments/urban/russian-buildings-lowpoly-pack-80518
+Road:
+https://assetstore.unity.com/packages/2d/textures-materials/roads/asphalt-materials-141036
+https://assetstore.unity.com/packages/3d/environments/urban/city-traffic-lights-pack-free-low-poly-3d-art-154053
+https://assetstore.unity.com/packages/3d/environments/roadways/kajaman-s-roads-free-52628
+https://assetstore.unity.com/packages/3d/props/exterior/us-road-signs-free-164941
+Decoration:
+https://assetstore.unity.com/packages/3d/fountain-prop-75912
+https://assetstore.unity.com/packages/3d/props/exterior/low-poly-houses-free-pack-243926
+https://assetstore.unity.com/packages/2d/textures-materials/roads/yughues-free-pavement-materials-12952
+
+
